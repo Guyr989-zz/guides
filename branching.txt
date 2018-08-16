@@ -14,3 +14,20 @@ file:///C:/Users/guyr/Desktop/git%20guide/img/git%20Branching.png
 	
 1. git branch - מראה על איזה ענף נמצאים 
 
+2. git branch branch_name - יוצר ענף חדש
+						   כדאי ששם הענף יתאר את המטרה שלו
+						   ברגע שיוצרים ענף הוא חולק את ההיסטוריה שלו עם המאסטר
+						   לקומיטים על הענף אין השפעה על המאסטר
+							
+3.git checkout branch_name -  מחליף לאותו הענף
+
+
+
+
+                :הפקודות 
+
+1. git branch
+
+2. git branch branch_name
+
+3.git checkout branch_name
