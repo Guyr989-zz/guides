@@ -1,0 +1,18 @@
+Git - Bactracking - ניווט בין גרסאות
+
+1. git checkout HEAD filename - תחזיר את הקובץ בתקיית העבודה להראות בדיוק
+							    כמו שהוא נראה לפני בקומיט האחרון
+		
+2. git reset HEAD filename - מחזירה את הקובץ להיות כמו שהוא היה בהד קומיט בסטייג'ינג
+						     לא מחזירה אותו בתקיית עבודה
+
+3. git reset commit_SHA -  SHAמקבלת 7 ספרות ראשונות של ה
+							במקרה ועשינו טעות
+							מחזירה את הקומיט שאנחנו רוצים להיות ההד קומיט
+
+
+1. git checkout HEAD filename
+
+2. git reset HEAD filename
+
+3. git reset commit_SHA
