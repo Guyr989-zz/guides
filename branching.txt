@@ -21,6 +21,14 @@ file:///C:/Users/guyr/Desktop/git%20guide/img/git%20Branching.png
 							
 3.git checkout branch_name -  מחליף לאותו הענף
 
+4.git merge branch_name - מאחד את הענף עם המאסטר
+						  צריך לעבור קודם לענף המאסטר 
+
+----------------------------------------------------------------
+"fast forward" - בגלל שגיט מזהה את הענף עם הקומיט הכי עדכני גיט |
+			   מריצה קדימה את המאסטר כדי לעדכן אותו בהתאם       |
+----------------------------------------------------------------
+
 
 
 
@@ -31,3 +39,5 @@ file:///C:/Users/guyr/Desktop/git%20guide/img/git%20Branching.png
 2. git branch branch_name
 
 3.git checkout branch_name
+
+4.git merge branch_name
