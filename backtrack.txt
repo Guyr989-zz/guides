@@ -10,7 +10,8 @@ Git - Bactracking - ניווט בין גרסאות
 							במקרה ועשינו טעות
 							מחזירה את הקומיט שאנחנו רוצים להיות ההד קומיט
 
-
+							:הפקודות
+							
 1. git checkout HEAD filename
 
 2. git reset HEAD filename
