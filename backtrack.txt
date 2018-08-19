@@ -12,7 +12,7 @@ Git - Bactracking - ניווט בין גרסאות
 
 							:הפקודות
 							
-1. git checkout HEAD filename
+1. git checkout HEAD filename / git checkout -- filename (קיצור לאותו דבר)
 
 2. git reset HEAD filename
 

@@ -26,6 +26,12 @@ file:///C:/Users/guyr/Desktop/git%20guide/img/git%20Branching.png
 						   אפשר לאחד כל ענף עם כל ענף
 						   חובה!!! - לשים לב על איזה ענף נמצאים
 
+						   
+
+5. git branch -d branch_name - מוחק את הענף
+
+6. git branch -D branch_name - מוחק את הענף בכח\אם לא שולב במאסטר
+						   
 ----------------------------------------------------------------
 "fast forward" - בגלל שגיט מזהה את הענף עם הקומיט הכי עדכני גיט |
 			   מריצה קדימה את המאסטר כדי לעדכן אותו בהתאם       |
@@ -62,3 +68,5 @@ merge conflict -   .קונפליקט קורה כאשר מפקידים משהו �
 4. git merge branch_name
 
 5. git branch -d branch_name
+
+6. git branch -D branch_name 
