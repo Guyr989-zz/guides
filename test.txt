@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a master line
+=======
+this is branching line
+>>>>>>> branching
